@@ -16,7 +16,7 @@ h2{
     font-weight: bold;
     color: aqua;
 }
-div [class*="hi"]{
+div[class*="hi"]{
     margin: 1%; 
     padding: 1%;
     border: 1px solid black;
